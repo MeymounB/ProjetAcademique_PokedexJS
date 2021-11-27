@@ -1,5 +1,5 @@
 # PokedexJS
-Pokedex réalisé en cours de javascript
+Pokedex réalisé en cours de javascript.
 Permet d'ajouter des Pokemons tout droit sorti de votre imagination ^^
 
 - Vous nommez le Pokemon.
